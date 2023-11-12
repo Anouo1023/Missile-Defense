@@ -37,7 +37,9 @@
 筆電獲得到資訊後，再傳給砲塔，並攻擊目標物。
  </p> <p> 
 原理圖如下:
-  https://github.com/Anouo1023/Missile-Defense/assets/134196295/ce2071e2-0164-4b25-b04c-8dc061d61062
+  <p>
+https://github.com/Anouo1023/Missile-Defense/assets/134196295/8b08ef6e-0f98-4446-ba1f-eac7654becce
+
 
   ## 採買電子材料會用到的店家
 
