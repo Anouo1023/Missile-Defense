@@ -36,7 +36,8 @@
  </p> <p> 
 筆電獲得到資訊後，再傳給砲塔，並攻擊目標物。
  </p> <p> 
-![未命名](https://github.com/Anouo1023/Missile-Defense/assets/134196295/ce2071e2-0164-4b25-b04c-8dc061d61062)
+原理圖如下:
+  https://github.com/Anouo1023/Missile-Defense/assets/134196295/ce2071e2-0164-4b25-b04c-8dc061d61062
 
   ## 採買電子材料會用到的店家
 
@@ -45,8 +46,8 @@
 1. **ebay**
  </p> <p> 
 2. 露天市集
- </p>
- <img width="774" alt="截圖_2023-07-23_下午11 24 48" src="https://github.com/Anouo1023/Missile-Defense/assets/134196295/642a3fb1-5fa0-4560-a3f2-b413c2a66110">
+ </p><img width="659" alt="截圖_2023-07-23_下午11 24 48" src="https://github.com/Anouo1023/Missile-Defense/assets/134196295/9b452a9b-856a-43bd-a56a-5ff164347346">
+
  <p>
  ![露天版圖](https://github.com/Anouo1023/Missile-Defense/assets/134196295/69787ca6-2d1d-498c-96ea-63ed0a6556ec)
 
@@ -55,5 +56,3 @@
 <p> Arduino雷達
  </p> <p> 
 <p> 砲塔(DreemCheeky)
-
-  
