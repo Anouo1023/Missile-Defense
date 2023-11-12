@@ -38,7 +38,8 @@
  </p> <p> 
 原理圖如下:
   <p>
-https://github.com/Anouo1023/Missile-Defense/assets/134196295/8b08ef6e-0f98-4446-ba1f-eac7654becce
+
+![未命名](https://github.com/Anouo1023/Missile-Defense/assets/134196295/68b4e8f3-1443-44eb-b3e3-99d6627dd31b)
 
 
   ## 購買硬體的店家
@@ -46,12 +47,16 @@ https://github.com/Anouo1023/Missile-Defense/assets/134196295/8b08ef6e-0f98-4446
   
 
 1.**ebay**
- </p> <p> 
+ </p> 
+ 
+ <p> 
 2. 露天市集
  </p><img width="659" alt="截圖_2023-07-23_下午11 24 48" src="https://github.com/Anouo1023/Missile-Defense/assets/134196295/9b452a9b-856a-43bd-a56a-5ff164347346">
 
  <p>
- https://github.com/Anouo1023/Missile-Defense/assets/134196295/69787ca6-2d1d-498c-96ea-63ed0a6556ec
+
+
+
 
 
 # Arduino原始碼
@@ -60,5 +65,5 @@ https://github.com/Anouo1023/Missile-Defense/assets/134196295/8b08ef6e-0f98-4446
 <p> 砲塔(DreemCheeky)
 
 # 聯絡我
-若各位閱讀者需要幫助，請發送https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox給我，我會視情況給予幫助及聯絡。
+若各位閱讀者需要幫助，請發送 jz32767@gmail.com  給我，我會視情況給予幫助及聯絡。
  </p> <p> 
