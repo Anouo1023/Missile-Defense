@@ -30,4 +30,17 @@
 3.當雷達來了之後，使用Arduino官方軟體以閱讀並編輯程式碼(廠商已隨商品附贈程式碼)
 ![ide-7](https://github.com/Anouo1023/Missle-Defense/assets/134196295/63d730d0-4187-4a43-ba0c-eb48c41f817c)
 
+## 我們所使用的控制原理
+
+當雷達掃描到物體後，面板呈現紅色，傳給筆電後顯示。
+ </p> <p> 
+筆電獲得到資訊後，再傳給砲塔，並攻擊目標物。
+ </p> <p> 
+![未命名](https://github.com/Anouo1023/Missile-Defense/assets/134196295/101bac32-403c-4f59-b663-f9e546fd1c93)
+
+
+
+  
+
+
 
