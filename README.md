@@ -41,11 +41,11 @@
 https://github.com/Anouo1023/Missile-Defense/assets/134196295/8b08ef6e-0f98-4446-ba1f-eac7654becce
 
 
-  ## 採買電子材料會用到的店家
+  ## 購買硬體的店家
 
   
 
-1. **ebay**
+1.**ebay**
  </p> <p> 
 2. 露天市集
  </p><img width="659" alt="截圖_2023-07-23_下午11 24 48" src="https://github.com/Anouo1023/Missile-Defense/assets/134196295/9b452a9b-856a-43bd-a56a-5ff164347346">
@@ -58,3 +58,7 @@ https://github.com/Anouo1023/Missile-Defense/assets/134196295/8b08ef6e-0f98-4446
 <p> Arduino雷達
  </p> <p> 
 <p> 砲塔(DreemCheeky)
+
+# 聯絡我
+若各位閱讀者需要幫助，請發送https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox給我，我會視情況給予幫助及聯絡。
+ </p> <p> 
