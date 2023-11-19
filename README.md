@@ -27,6 +27,8 @@
   
 
 -  **Arduino UNO跟MEGA**為最有可能使用的操控方案，UNO的腳位較少但其對電腦及其他電路板驅動較好，MEGA腳位較多但因為幾乎都是非公版所以其對電腦及其他版的驅動性較差
+
+
 3.當雷達來了之後，使用Arduino官方軟體以閱讀並編輯程式碼(廠商已隨商品附贈原始之程式碼)
 ![ide-7](https://github.com/Anouo1023/Missle-Defense/assets/134196295/63d730d0-4187-4a43-ba0c-eb48c41f817c)
 
@@ -34,6 +36,7 @@
 ## 我們所使用的控制原理
 
 當雷達掃描到物體後(使用**C++**)，面板呈現紅色，傳給筆電後顯示(使用**Java**)。
+
 筆電獲得到資訊後，再傳給砲塔(使用**C#**)，並攻擊目標物。
  </p> <p> 
 原理圖如下:
@@ -47,12 +50,12 @@
   
 
 1.**ebay**  購買砲塔(**Dream Cheeky thunder USB  Missile Launcher**)
- </p> 
- 
+  </p><img width="659" alt="截圖_2023-07-23_下午11 24 48" src="https://github.com/Anouo1023/Missile-Defense/assets/134196295/9b452a9b-856a-43bd-a56a-5ff164347346">
+  
 2. 露天市集 購買(**Arduino 雷達**)
- </p><img width="659" alt="截圖_2023-07-23_下午11 24 48" src="https://github.com/Anouo1023/Missile-Defense/assets/134196295/9b452a9b-856a-43bd-a56a-5ff164347346">
 
- <p>
+   ![未命名](https://github.com/Anouo1023/Missile-Defense/assets/134196295/6d6dd93a-fa3c-416f-8ba6-3f655df1b671)
+
 
 
 
