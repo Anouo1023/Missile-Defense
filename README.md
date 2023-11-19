@@ -33,9 +33,8 @@
 4. 雷達的偵測距離可能會與現實有些許偏差。所以在跑程式前，請先將雷達換算公式調整好，避免debug到吐。
 ## 我們所使用的控制原理
 
-當雷達掃描到物體後(使用C++)，面板呈現紅色，傳給筆電後顯示(使用Java)。
- </p> <p> 
-筆電獲得到資訊後，再傳給砲塔(使用C#)，並攻擊目標物。
+當雷達掃描到物體後(使用**C++**)，面板呈現紅色，傳給筆電後顯示(使用**Java**)。
+筆電獲得到資訊後，再傳給砲塔(使用**C#**)，並攻擊目標物。
  </p> <p> 
 原理圖如下:
   <p>
@@ -47,11 +46,10 @@
 
   
 
-1.**ebay**  購買砲塔(Dream Cheeky thunder USB  Missile Launcher)
+1.**ebay**  購買砲塔(**Dream Cheeky thunder USB  Missile Launcher**)
  </p> 
  
- <p> 
-2. 露天市集
+2. 露天市集 購買(**Arduino 雷達**)
  </p><img width="659" alt="截圖_2023-07-23_下午11 24 48" src="https://github.com/Anouo1023/Missile-Defense/assets/134196295/9b452a9b-856a-43bd-a56a-5ff164347346">
 
  <p>
@@ -61,10 +59,10 @@
 
 
 # Arduino原始碼
-<p> Arduino雷達
- </p> <p> 
-<p> 砲塔(DreemCheeky)
+Arduino雷達
+
+砲塔 (**Dream Cheeky thunder USB  Missile Launcher**)
 
 # 聯絡我
-若各位閱讀者需要幫助，請發送訊息到 **jz32767@gmail.com*  給我，我會視情況給予幫助及聯絡。
+若各位閱讀者需要幫助，請發送訊息到 *jz32767@gmail.com*  給我，我會視情況給予幫助及聯絡。
  </p> <p> 
