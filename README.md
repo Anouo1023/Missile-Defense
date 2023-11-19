@@ -24,15 +24,28 @@
 
 2.當雷達來了之後，使用Arduino IDE 以閱讀並編輯程式碼(廠商已隨商品附贈原始之程式碼)
 
+3.雷達的偵測距離可能會與現實有些許偏差。所以在跑程式前，請先將雷達換算公式調整好。避免於Debug時，產生問題。
 
+4.當砲塔來了之後，以**Visual Code**閱讀並編輯
 
-3. 雷達的偵測距離可能會與現實有些許偏差。所以在跑程式前，請先將雷達換算公式調整好。避免於Debug時，產生問題。
+5.砲塔會因型號不同，而在輸入上有些許的差異，請先將程式編輯成砲塔所適用的，避免於Debug時，產生問題。
+
  <p>
-## 我們所使用的控制原理
+
+  
+  ## 我們所使用的控制原理
 
 當雷達掃描到物體後(使用**C++**)，面板呈現紅色，傳給筆電後顯示(使用**Java**)。
+筆電獲得到資訊後，再傳給砲塔(使用**C#**)，並攻擊目標物。
+ <p>
 
-**雷達顯示**
+原理圖如下:
+  <p>
+
+![未命名](https://github.com/Anouo1023/Missile-Defense/assets/134196295/68b4e8f3-1443-44eb-b3e3-99d6627dd31b)
+
+
+  **雷達顯示**
 
 ![image](https://github.com/Anouo1023/Missile-Defense/assets/134196295/d3826741-1365-4593-a349-b368c6f971f3)
  <p>
@@ -42,14 +55,20 @@
 ![image](https://github.com/Anouo1023/Missile-Defense/assets/134196295/f56c9be5-99e1-4058-a6c0-7e41cf35c636)
  <p>
 
-筆電獲得到資訊後，再傳給砲塔(使用**C#**)，並攻擊目標物。
 
+砲塔發射及接收資料的原理圖如下:
+ 
+ ![image](https://github.com/Anouo1023/Missile-Defense/assets/134196295/cb72d7d7-5517-4f4a-b8f5-a79c45292205)
+
+ 圓周角與圓心角關係:
+
+[ https://www.junyiacademy.org/junyi-math/mjs/mjsyx/mjsyx9b/v/aIndb3ZMsVk](url)
+
+![image](https://github.com/Anouo1023/Missile-Defense/assets/134196295/62798707-9cd4-493d-aff5-20f5041fd4bc)
+
+ 
  <p>
  
-原理圖如下:
-  <p>
-
-![未命名](https://github.com/Anouo1023/Missile-Defense/assets/134196295/68b4e8f3-1443-44eb-b3e3-99d6627dd31b)
 
 
   ## 購買硬體的店家
