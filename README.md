@@ -89,7 +89,7 @@ Arduino雷達
 
 砲塔 (**Dream Cheeky thunder USB  Missile Launcher**)
 
-[Uploading THUNDER.sln…]()
+
 
 # 聯絡我
 若各位閱讀者需要幫助，請發送訊息到 *jz32767@gmail.com*  給我，我會視情況給予幫助及聯絡。
